@@ -1,0 +1,31 @@
+html {
+	background-image:url("https://cdn.discordapp.com/emojis/578900827134099456.gif?v=1");
+	background-color:lightgray;
+    font-family: "Roboto", sans-serif;
+	
+}
+h1 {
+	text-align:center;
+	color:red;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+main {
+	 text-align:center;
+	 color:cyan;
+	 text-shadow: 1px 1px 2px black, 0 0 25px green, 0 0 5px red;
+}
+
+footer {
+	color:yellow;
+	text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkblue;
+	text-align: center;	
+	margin-top: 20%;
+}
+#cursedtext {
+	margin-left: 20%;
+    margin-right: 20%;
+	margin-top: 20%;
+	border: solid red 1px;
+	background-image: url("https://cdn.discordapp.com/emojis/571154799425355776.gif?v=1");
+
+}
